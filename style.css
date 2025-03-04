@@ -1,0 +1,20 @@
+*{
+    background-color: khaki;
+}
+h1{
+    color: chocolate;
+}
+h3{ 
+    margin: 10px 50px;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: saddlebrown;
+}
+h4{
+    color: rgb(117, 59, 18);
+}
+
+    p{
+        background-color: rgb(250, 206, 96);
+    }
+
